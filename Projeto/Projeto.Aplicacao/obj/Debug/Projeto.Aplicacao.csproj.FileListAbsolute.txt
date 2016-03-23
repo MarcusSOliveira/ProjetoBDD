@@ -1,0 +1,8 @@
+C:\Users\COTI\Desktop\__Aula_22.03.16\Aula10\Projeto.Aplicacao\bin\Debug\Projeto.Aplicacao.dll
+C:\Users\COTI\Desktop\__Aula_22.03.16\Aula10\Projeto.Aplicacao\bin\Debug\Projeto.Aplicacao.pdb
+C:\Users\COTI\Desktop\__Aula_22.03.16\Aula10\Projeto.Aplicacao\bin\Debug\Projeto.Dominio.dll
+C:\Users\COTI\Desktop\__Aula_22.03.16\Aula10\Projeto.Aplicacao\bin\Debug\Projeto.Entidades.dll
+C:\Users\COTI\Desktop\__Aula_22.03.16\Aula10\Projeto.Aplicacao\bin\Debug\Projeto.Dominio.pdb
+C:\Users\COTI\Desktop\__Aula_22.03.16\Aula10\Projeto.Aplicacao\bin\Debug\Projeto.Entidades.pdb
+C:\Users\COTI\Desktop\__Aula_22.03.16\Aula10\Projeto.Aplicacao\obj\Debug\Projeto.Aplicacao.dll
+C:\Users\COTI\Desktop\__Aula_22.03.16\Aula10\Projeto.Aplicacao\obj\Debug\Projeto.Aplicacao.pdb
